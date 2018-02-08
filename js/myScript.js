@@ -8,6 +8,10 @@
 var tal = 111;
 var erDetRigtigt = false;
 var enStreng = "hej verden";
+var valgfritNavn = "vand";
+
+var tal1 = 2;
+var tal2 = 2;
 
 // klister (+)
 // kommentarer
@@ -21,7 +25,7 @@ var enStreng = "hej verden";
 // noget her
 
 /* se resultatet af din kode i browserens udviklings-værktøj */
-console.log( enStreng  );
+console.log(tal1 + tal2);
 // skriv i browservinduet
 
 /* se resultatet af din kode, der hvor scriptet ligger i koden */
