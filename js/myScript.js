@@ -10,6 +10,8 @@ var erDetRigtigt = false;
 var enStreng = "hej verden";
 var valgfritNavn = "vand";
 
+var maaJegSkrive = false;
+
 var tal1 = 2;
 var tal2 = 2;
 
@@ -27,6 +29,8 @@ var tal2 = 2;
 /* se resultatet af din kode i browserens udviklings-værktøj */
 console.log(tal1 + tal2);
 // skriv i browservinduet
+
+document.write("<h1 style='color:red''>" + "ER DET HER PÅ SKÆRMEN?!</h1>" + (tal1+tal2));
 
 /* se resultatet af din kode, der hvor scriptet ligger i koden */
 
